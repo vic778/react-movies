@@ -1,72 +1,79 @@
-# Getting Started with Create React App
+# React Movies
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> This is a personal project to improve my skills in React that  I have used the backend link provided by (TMDB):
 
-![](/src/components/assets/homeUI.PNG)
+    - a Home page with the components
+    - a UserLilst page which contains the list of movies the user liked and stored in the LocalStorage
+    - Header component which contains the Navbar and the links
+    - Form component which contains a function to retrieve the Data from the database and which contains a logic to    display the average from ascending to descending
+    - Card component which contains a function to display the movies via the Props of the react and which contains a Switch function to display the Genre of each movie and the date of publication.
 
-## Available Scripts
 
-In the project directory, you can run:
+![](https://github.com/vic778/Leaderboard/blob/develop/img/screen1.png)
+## Built With
 
-### `npm start`
+- React
+- DOM6
+- localStorage
+## Live Demo
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+[Live Demo Link](https://thirsty-kalam-5dacb9.netlify.app/)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Author 1
 
-### `npm test`
+👤 **Victor Barh**
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- GitHub: [@Vvic778](https://github.com/vic778)
+- Twitter: [@victoirBarh](https://twitter.com/)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/victoir-barh)
 
-### `npm run build`
+## Getting Started
+- run `npm install` to install all dependencies
+- run `npm start` to run the server
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Prerequisites:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Web browser
+- Code Editor
+- Live Server Extension
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Cloning the repo to your local system (If you already have git, installed in your system):
 
-### `npm run eject`
+- [Copy this link](https://github.com/vic778/To-Do-List/tree/develop)
+- Open your terminal or command line
+- Run "git clone [Paste this link](https://github.com/vic778/To-Do-List/tree/develop)"
+- Open the folder with your code editor
+- Now You can edit the code and check the changes in the browser using Live Server
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Check linter errors:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Install npm
+- For HTML: Run npx hint .
+- For CSS: Run npx stylelint “**/*.css”
+- for javascript Run npx eslint .
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 🤝 Contributing
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Contributions, issues, and feature requests are welcome!
 
-## Learn More
+Start by:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Forking the project
+- Cloning the project to your local machine
+- cd into the Youtube-Replica project directory
+- Run git checkout -b your-branch-name
+- Make your contributions
+- Push your branch up to your forked repository
+- Open a Pull Request with a detailed description to the development branch of the original project for a review
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Feel free to check the [issues page](), contribute to the Project by creating an issue.
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Show your support
 
-### Analyzing the Bundle Size
+Give a ⭐️ if you like this project!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Acknowledgments
+- Project originally taken from The Odin Project
+- Project inspired by Microverse Program
+- Thanks for this Website Design "VCITOIR BARH"
