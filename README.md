@@ -9,7 +9,7 @@
     - Card component which contains a function to display the movies via the Props of the react and which contains a Switch function to display the Genre of each movie and the date of publication.
 
 
-![](https://github.com/vic778/Leaderboard/blob/develop/img/screen1.png)
+![](https://github.com/vic778/react-movies/blob/userList/src/img/screen1.png)
 ## Built With
 
 - React
