@@ -37,6 +37,7 @@ const Form = () => {
           <div className="result">
               {moviesData
               .slice(0, 12)
+              // eslint-disable-next-line array-callback-return
               .sort((a, b) => {
                   if(sortGoodBad === "goodToBad") {
                     return b.vote_average - a.vote_average
