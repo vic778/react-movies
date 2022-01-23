@@ -20,7 +20,7 @@
 - localStorage
 ## Live Demo
 
-[Live Demo Link](https://thirsty-kalam-5dacb9.netlify.app/)
+[Live Demo Link](https://reaact-movie.netlify.app/)
 
 ## Author 1
 
