@@ -3,13 +3,16 @@
 > This is a personal project to improve my skills in React that  I have used the backend link provided by (TMDB):
 
   - a Home page with the components
-  - a UserLilst page which contains the list of movies the user liked and stored in the LocalStorage
   - Header component which contains the Navbar and the links
   - Form component which contains a function to retrieve the Data from the database and which contains a logic to    display the average from ascending to descending
   - Card component which contains a function to display the movies via the Props of the react and which contains a Switch function to display the Genre of each movie and the date of publication.
 
 
 ![](https://github.com/vic778/react-movies/blob/userList/src/img/screen1.png)
+
+- a UserLilst page which contains the list of movies the user liked and stored in the LocalStorage, 
+- the movies stored can be also delete by the user.
+![](https://github.com/vic778/react-movies/blob/develop/src/img/screen2.png)
 ## Built With
 
 - React
